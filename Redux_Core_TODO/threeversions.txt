@@ -1,0 +1,9 @@
+* create todo application using the plane redux core.
+*we are going to integrate redux core with react appliation and make todo app 
+* instead of using plane redux core we are going to use reduxtoolkit and make todo app 
+
+
+
+installation of plane redux
+1. npm init -y (it will give package.json file)
+2. npm install redux (install plane redux)
